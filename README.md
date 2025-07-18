@@ -57,10 +57,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Landunika's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRasadhi&show_icons=true&theme=radical)
-
 ## 🎓 Education:
 
 **B.Sc. (Hons) in Applied Sciences with ICT** - University of Sri Jayewardenepura (2021-2025)
