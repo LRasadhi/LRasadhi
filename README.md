@@ -1,4 +1,4 @@
-Hi 👋, I'm Landunika Rasadhi
+##Hi 👋, I'm Landunika Rasadhi
 A passionate Software Engineer with hands-on experience in full-stack development and AI integration from Sri Lanka
 ⚡ I'm currently working as Software Engineer (AI)
 🔭 I'm currently learning Microsoft Azure Data Fundamentals
