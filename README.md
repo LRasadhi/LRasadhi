@@ -1,10 +1,6 @@
 # Hi 👋, I'm Landunika Rasadhi
 
-### Trainee Software Engineer (AI) | AI & Analytics Enthusiast | Building Scalable AI Systems | From Code to Product Strategy
-
-⚡ I'm currently working as **Software Engineer (AI)**
-
-🔭 I'm currently learning **Microsoft Azure Data Fundamentals**
+### Software Engineer (AI) | AI & Analytics Enthusiast | Building Scalable AI Systems | From Code to Product Strategy
 
 📧 How to reach me **rasadhilandunika@gmail.com**
 
@@ -27,6 +23,9 @@
 
 ### Frameworks & Libraries:
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -41,6 +40,7 @@
 
 ### Databases:
 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
